@@ -1,5 +1,5 @@
 # DesignPattern
-## Projeto em andamento 22 dias de Desgin Pattern
+
  ```
 Padrões de projeto (design patterns)
 São souluções já existente para problemas comnuns.
@@ -30,12 +30,13 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
   
 
 
-##SOLID
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/1.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/2.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/3.png)
+SOLID
 
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/S/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/S/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/S/3.png)
+
+![](https://github.com/paulosoujava/DesignPattern2022/tree/main/imagens/solid/o/1.png)
 ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/2.png)
 ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/3.png)
 
