@@ -14,7 +14,6 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
 
   Lista de padrões:
-  
    ![](imagens/creational/1.png)
    ![](imagens/creational/2.png)
    ![](imagens/creational/3.png)
