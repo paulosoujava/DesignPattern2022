@@ -12,19 +12,15 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
     - Comportamental
           Voltados aos algoritmos e a designação de responsabilidades entre objetos    
 
-
+```
   Lista de padrões:
-      Criacional
+
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/1.png)
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/2.png)
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/3.png)
-
-      Estrutural
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/1.png)
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/2.png)
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/3.png)
-
-      Comportamental
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/1.png) 	
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/2.png) 	
         ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/3.png) 	
@@ -55,7 +51,7 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
 
 
-
+```
 
 O conteúdo contido aqui foi retirado dos sites e livros abaixo, todo os direitos são reservados aos autores
 Para saber mais de todos os projetos recomendo:
