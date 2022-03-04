@@ -15,50 +15,42 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
   Lista de padrões:
   
-      Criacional
-          Abstract Factory	
-          Builder	
-          Factory Method	
-          Prototype	
-          Singleton	
+   ![](imagens/creational/1.png)
+   ![](imagens/creational/2.png)
+   ![](imagens/creational/3.png)
 
       Estrutural
-            Adapter
-            Bridge	
-            Composite
-            Decorator
-            Facade	
-            Flyweight	
-            Proxy	
+            ![](imagens/estrutural/1.png)
+   ![](imagens/estrutural/2.png)
+   ![](imagens/estrutural/3.png)
 
       Comportamental
-            Chain of Responsibility	
-            Command
-            Interpreter
-            Iterator	
-            Mediator	
-            Memento	
-            Observer	
-            State	
-            Strategy	
-            Template Method	
-            Visitor	
+           ![](imagens/comportamental/1.png) 	
+           ![](imagens/comportamental/2.png) 	
+           ![](imagens/comportamental/3.png) 	
   
 
 
- Criacional:
-   Dia 1: 
-    Singleton
-        O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas
-        uma instância, enquanto provê um ponto de acesso global para essa instância.
-    Dia 2:     
-    Factory Method
-        O Factory Method é um padrão criacional de projeto que fornece uma interface para criar objetos 
-        em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
+##SOLID
+![](imagens/solid/s/1.png)
+![](imagens/solid/s/2.png)
+![](imagens/solid/s/3.png)
 
+![](imagens/solid/o/1.png)
+![](imagens/solid/o/2.png)
+![](imagens/solid/o/3.png)
 
+![](imagens/solid/l/1.png)
+![](imagens/solid/l/2.png)
+![](imagens/solid/l/3.png)
 
+![](imagens/solid/i/1.png)
+![](imagens/solid/i/2.png)
+![](imagens/solid/i/3.png)
 
+![](imagens/solid/d/1.png)
+![](imagens/solid/d/2.png)
+![](imagens/solid/d/3.png)
 
 
 
