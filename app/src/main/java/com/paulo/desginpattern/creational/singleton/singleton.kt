@@ -1,6 +1,14 @@
-package com.paulo.desginpattern.singleton
+package com.paulo.desginpattern.creational.singleton
 
 import java.util.concurrent.atomic.AtomicInteger
+/*
+Uses:
+ Network manager
+ Database access
+ Logging
+ Utility class(es)
+
+ */
 
 object CounterSingleton {
     private val counter = AtomicInteger(0)

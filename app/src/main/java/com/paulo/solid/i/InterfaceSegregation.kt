@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.solid.i
+package com.paulo.solid.i
 /*
 Princípio da Segregação de Interfaces
  Muitas interfaces específicas são melhores do que uma interface única geral.

@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.abstractFactory
+package com.paulo.desginpattern.creational.abstractFactory
 
 interface Bread {
     fun name(): String

@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.solid.l
+package com.paulo.solid.l
 /*
 Princípio da Substituição de Liskov —
 As classes derivadas devem ser substituíveis por suas classes bases.

@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.solid.o
+package com.paulo.solid.o
 
 /*
 Se S é um subtipo de T, então objetos do tipo T em um programa podem ser substituídos

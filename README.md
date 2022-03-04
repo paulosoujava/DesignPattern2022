@@ -70,5 +70,6 @@ Para saber mais de todos os projetos recomendo:
     https://refactoring.guru/pt-br/design-patterns/catalog
 Alguns Exemplos estão neste Livro:
     https://www.amazon.com.br/Hands-Design-Patterns-Kotlin-Alexey/dp/1788998014/ref=asc_df_1788998014/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=1663043917697413162&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102217&hvtargid=pla-494585454365&psc=1
-
+SOLID
+https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
 ```

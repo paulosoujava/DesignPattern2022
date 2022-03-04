@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.factory
+package com.paulo.desginpattern.creational.factoryMethod
 
 import java.util.*
 //CONTRACT

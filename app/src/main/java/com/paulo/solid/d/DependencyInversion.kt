@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.solid.d
+package com.paulo.solid.d
 /*
 Princípio da Inversão de Dependência
 Dependa de abstrações e não de implementações.
