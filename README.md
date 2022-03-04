@@ -14,19 +14,20 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
 
   Lista de padrões:
-   ![](imagens/creational/1.png)
-   ![](imagens/creational/2.png)
-   ![](imagens/creational/3.png)
+      Criacional
+        ![](image/creational/1.png)
+        ![](image/creational/2.png)
+        ![](image/creational/3.png)
 
       Estrutural
-            ![](imagens/estrutural/1.png)
-   ![](imagens/estrutural/2.png)
-   ![](imagens/estrutural/3.png)
+        ![](image/estrutural/1.png)
+        ![](image/estrutural/2.png)
+        ![](image/estrutural/3.png)
 
       Comportamental
-           ![](imagens/comportamental/1.png) 	
-           ![](imagens/comportamental/2.png) 	
-           ![](imagens/comportamental/3.png) 	
+        ![](image/comportamental/1.png) 	
+        ![](image/comportamental/2.png) 	
+        ![](image/comportamental/3.png) 	
   
 
 
