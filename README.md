@@ -14,16 +14,15 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
 ```
   Lista de padrões:
-
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/1.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/2.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/3.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/1.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/2.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/3.png)
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/1.png) 	
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/2.png) 	
-        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/3.png) 	
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/1.png) 	
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/2.png) 	
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/3.png) 	
   
 
 
