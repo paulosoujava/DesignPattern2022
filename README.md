@@ -15,42 +15,42 @@ Temos uma lista de 22 Padrões divididos em 3 categorias
 
   Lista de padrões:
       Criacional
-        ![](image/creational/1.png)
-        ![](image/creational/2.png)
-        ![](image/creational/3.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/1.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/2.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/creational/3.png)
 
       Estrutural
-        ![](image/estrutural/1.png)
-        ![](image/estrutural/2.png)
-        ![](image/estrutural/3.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/1.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/2.png)
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/estrutural/3.png)
 
       Comportamental
-        ![](image/comportamental/1.png) 	
-        ![](image/comportamental/2.png) 	
-        ![](image/comportamental/3.png) 	
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/1.png) 	
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/2.png) 	
+        ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/comportamental/3.png) 	
   
 
 
 ##SOLID
-![](imagens/solid/s/1.png)
-![](imagens/solid/s/2.png)
-![](imagens/solid/s/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/s/3.png)
 
-![](imagens/solid/o/1.png)
-![](imagens/solid/o/2.png)
-![](imagens/solid/o/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/3.png)
 
-![](imagens/solid/l/1.png)
-![](imagens/solid/l/2.png)
-![](imagens/solid/l/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/3.png)
 
-![](imagens/solid/i/1.png)
-![](imagens/solid/i/2.png)
-![](imagens/solid/i/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/3.png)
 
-![](imagens/solid/d/1.png)
-![](imagens/solid/d/2.png)
-![](imagens/solid/d/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/3.png)
 
 
 
