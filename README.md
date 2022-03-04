@@ -36,21 +36,21 @@ SOLID
 ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/S/2.png)
 ![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/S/3.png)
 
-![](https://github.com/paulosoujava/DesignPattern2022/tree/main/imagens/solid/o/1.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/2.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/o/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/o/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/o/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/o/3.png)
 
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/1.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/2.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/l/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/l/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/l/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/l/3.png)
 
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/1.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/2.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/i/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/i/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/i/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/i/3.png)
 
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/1.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/2.png)
-![](https://github.com/paulosoujava/DesignPattern2022/blob/main/imagens/solid/d/3.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/d/1.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/d/2.png)
+![](https://github.com/paulosoujava/DesignPattern2022/blob/main/image/solid/d/3.png)
 
 
 
