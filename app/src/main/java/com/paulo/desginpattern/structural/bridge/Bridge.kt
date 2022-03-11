@@ -54,14 +54,16 @@ interface Device {
     fun isEnabled():Boolean
     fun enable()
     fun disable()
-    fun getVolume()
+    fun getVolume(): Int
     fun setVolume(vol: Int)
     fun setChannel(ch: Int)
-    fun getChannel()
+    fun getChannel():Int
 }
 
 //TOdos os dispositivos seguem a mesma interface
 class Tv : Device{
+    private var volume : Int = 0
+    private var channel : Int = 0
     override fun isEnabled(): Boolean {
         TODO("Not yet implemented")
     }
@@ -74,25 +76,25 @@ class Tv : Device{
         TODO("Not yet implemented")
     }
 
-    override fun getVolume() {
-        TODO("Not yet implemented")
-    }
+    override fun getVolume() = this.volume
 
     override fun setVolume(vol: Int) {
-        TODO("Not yet implemented")
+        this.volume = vol
     }
 
     override fun setChannel(ch: Int) {
-        TODO("Not yet implemented")
+        this.channel = ch
     }
 
-    override fun getChannel() {
-        TODO("Not yet implemented")
-    }
+    override fun getChannel()= this.channel
+
 
 }
 
 class Radio : Device{
+    private var volume : Int = 0
+    private var channel : Int = 0
+
     override fun isEnabled(): Boolean {
         TODO("Not yet implemented")
     }
@@ -105,21 +107,18 @@ class Radio : Device{
         TODO("Not yet implemented")
     }
 
-    override fun getVolume() {
-        TODO("Not yet implemented")
-    }
+    override fun getVolume() = this.volume
 
     override fun setVolume(vol: Int) {
-        TODO("Not yet implemented")
+        this.volume = vol
     }
 
     override fun setChannel(ch: Int) {
-        TODO("Not yet implemented")
+        this.channel = ch
     }
 
-    override fun getChannel() {
-        TODO("Not yet implemented")
-    }
+    override fun getChannel()= this.channel
+
 
 }
 
