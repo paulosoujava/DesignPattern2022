@@ -1,9 +1,9 @@
-package com.paulo.desginpattern.structural
+package com.paulo.desginpattern.structural.adapter
 
 import kotlin.math.sqrt
 
 /*
-TA\ambém conhecido como: adaptador, wrapper
+Também conhecido como: adaptador, wrapper
 o Adapter é um padrão de projeto estrutural que permite objetos com interfaces
 incompatíveis colcaborarem entre si
  */
