@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.builder
+package com.paulo.desginpattern.creational.builder.example
 
 data class Casa2(
     var temMudo: Boolean = false,

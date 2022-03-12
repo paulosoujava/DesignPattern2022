@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.builder
+package com.paulo.desginpattern.creational.builder.example
 
 // USed when we have multiple parameters to initialize
 // for many parameters, It's impractical to build all constructors
