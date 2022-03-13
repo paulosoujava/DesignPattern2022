@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.prototipe
+package com.paulo.desginpattern.creational.prototype
 
 /*
 Prototype tbm conhecido como, protótipo, clone

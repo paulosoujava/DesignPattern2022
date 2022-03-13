@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.prototipe
+package com.paulo.desginpattern.creational.prototype
 
 /*
 Letsmyou copy  existing objets

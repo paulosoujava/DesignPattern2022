@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.prototipe
+package com.paulo.desginpattern.creational.prototype.example
 
 data class Cat(
     val name: String,
