@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.abstractFactory
+package com.paulo.desginpattern.creational.abstractFactory.examples
 
 import java.lang.IllegalArgumentException
 

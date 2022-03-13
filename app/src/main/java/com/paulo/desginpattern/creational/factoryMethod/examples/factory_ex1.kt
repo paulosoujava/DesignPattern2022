@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.factoryMethod
+package com.paulo.desginpattern.creational.factoryMethod.examples
 
 import java.util.*
 

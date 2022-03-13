@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.creational.factoryMethod
+package com.paulo.desginpattern.creational.factoryMethod.examples
 
 /*
 Provides a way to access functionality without caring about implementation

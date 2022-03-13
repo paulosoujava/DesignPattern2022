@@ -1,4 +1,4 @@
-package com.paulo.desginpattern.structural.adapter
+package com.paulo.desginpattern.structural.adapter.example
 
 /*
 Converts the interface of a class into another interface the client expects

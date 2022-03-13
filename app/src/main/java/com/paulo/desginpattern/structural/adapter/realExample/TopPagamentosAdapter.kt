@@ -1,4 +1,4 @@
 package com.paulo.desginpattern.structural.adapter.realExample
 
-class TopPagamentosAdapter {
+class TopPagamentosAdapter() {
 }
