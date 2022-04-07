@@ -1,5 +1,7 @@
 package com.paulo.desginpattern.behaviour.state.example
 
+import java.lang.Exception
+
 class Pedido {
 
     val aguardando: State
@@ -16,6 +18,22 @@ class Pedido {
         enviado = EnviadoState(this)
         estadoAtual = aguardando
     }
+
+    fun pagar(){
+        try {
+            estadoAtual.sucessoAoPager()
+        }catch (e: Exception){
+            println("${e.message}")
+        }
+
+    }
+    fun cancelar(){
+        estadoAtual.cancelarPedido()
+    }
+    fun despachar(){
+        estadoAtual.despacharPedido()
+    }
+
 
     fun actualState() = when(estadoAtual){
         is AguardandoPagamentoState -> "Aguardando pagamento"

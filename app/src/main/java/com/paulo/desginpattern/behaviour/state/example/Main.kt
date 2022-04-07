@@ -5,12 +5,9 @@ fun main() {
 
     println(pedido.actualState())
 
-   // CanceladoState(pedido).cancelarPedido()
-    PagoState(pedido).sucessoAoPager()
-
-    println(pedido.actualState())
-
-    PagoState(pedido).despacharPedido()
+    //pedido.despachar()
+    pedido.pagar()
+    pedido.despachar()
 
     println(pedido.actualState())
 }
